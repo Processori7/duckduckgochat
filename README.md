@@ -7,7 +7,7 @@ Download and unzip or clone the code.
 ```
 git clone https://github.com/Processori7/duckduckgochat.git
 ```
-Next, in the Chrome browser, go to "Settings" - "Extensions" - "Manage extensions" - at the top right, click on the switch and turn on the developer mode, then click on "Download unpacked extension" and select the folder: FreeAiChromeSidebar, after that, you will have the extension.
+Next, in the Chrome browser, go to "Settings" - "Extensions" - "Manage extensions" - at the top right, click on the switch and turn on the developer mode, then click on "Download unpacked extension" and select the folder: duckduckgochat, after that, you will have the extension.
 
 # Update
 
@@ -28,7 +28,7 @@ Or download the archive and copy the replacement files.
 ```
 git clone https://github.com/Processori7/duckduckgochat.git  
 ```
-Далее в браузере Chrome перейдите в "Настройки" - "Расширения" - "Управление расширениями" - на верху справа нажмите на переключатель и включите режим разработчика, далее нажмите на "Загрузить распакованное расширение" и выберите папку: FreeAiChromeSidebar, после этого, у вас появится расширение.
+Далее в браузере Chrome перейдите в "Настройки" - "Расширения" - "Управление расширениями" - на верху справа нажмите на переключатель и включите режим разработчика, далее нажмите на "Загрузить распакованное расширение" и выберите папку: duckduckgochat, после этого, у вас появится расширение.
 
 # Обновление
 
