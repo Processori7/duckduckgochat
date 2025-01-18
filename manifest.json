@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Duck Duck GO Chat",
+  "version": "1.0",
+  "description": "Duck Duck GO Chat",
+  "author": "Processor",
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+    },
+  "side_panel": {
+    "default_path": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "sidePanel"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
